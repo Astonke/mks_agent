@@ -1,0 +1,11 @@
+{
+  "OPENAI_KEY": "sk-REPLACE_ME",
+  "CT_API_KEY": "REPLACE_ME",
+  "SUPABASE_URL": "https://xyzcompany.supabase.co",
+  "SUPABASE_KEY": "REPLACE_ME",
+  "REDDIT_ID": "REPLACE_ME",
+  "REDDIT_SECRET": "REPLACE_ME",
+  "FB_PAGE_ID": "OPTIONAL",
+  "PAGE_ACCESS_TOKEN": "OPTIONAL",
+  "LEAD_WEBHOOK_URL": "https://yourcrm.com/hook"
+}
